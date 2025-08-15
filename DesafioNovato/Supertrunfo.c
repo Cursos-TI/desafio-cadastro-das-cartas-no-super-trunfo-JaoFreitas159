@@ -11,7 +11,7 @@ int main(){
 
     char Estado1, Estado2;                                           //estado da cidade o numero
     char Codigo_carta1[4],Codigo_carta2[4];                          //codigo definido para a carta
-    char Cidade1[40],Cidade2[40];                                     //Nome da cidade
+    char Cidade1[40],Cidade2[40];                                    //Nome da cidade
     int populacao1, ponto_turistico1, populacao2, ponto_turistico2;  //População do local e quantida de pontos turisticos
     float area1, PIB1, area2, PIB2;                                  //area da cidade e o seu PIB
                                                                      //O numero após cada variavel representa a qual carta ele sera atribuido
