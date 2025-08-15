@@ -24,7 +24,7 @@ int main(){
         printf("Defina um Estado de A a H para sua carta 1: \n");  //Aqui receberemos o estado da carta
         scanf(" %c",&Estado1);
 
-        printf("Me indique o código da carta 1 : \n");              //Aqui receberemos o código o %3s indica que ele so recebera no máximo 3 caracteres
+        printf("Me indique o código da carta 1 : \n");              //Aqui receberemos o código da carta, o %3s indica que ele so recebera no máximo 3 caracteres
         scanf("%3s",Codigo_carta1);
                 
         printf("Qual o nome da cidade desta carta?:\n");            //Recebemos o nome da cidade, o scanf nesta forma permete que a gente receba nomes compostos
